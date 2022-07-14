@@ -26,6 +26,7 @@ Un sistema de tipos:
   Float
   String
   Bolean
+  
  Operaciones permitidas entre el sistema de tipos:
  
                     int         	    float         	      string          	    boolean
